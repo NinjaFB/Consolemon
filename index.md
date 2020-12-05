@@ -5,6 +5,6 @@ This is the official page for the Consolémon development, feel free to help col
 Unfortunately I have not actually made a tutorial for downloading and playing the game yet. If anyone knows how and has the time and motivation, it would be greatly appreciated if you could add a tutorial. 
 
 ## Social Media
-[Twitter](https://twitter.com/ninjafb1) <br>
-[Twitch](https://www.twitch.tv/ninjafb_) <br>
-[Discord Server](https://discord.com/invite/Dmsrpk8vsk) <br>
+[Twitter](https://twitter.com/ninjafb1)  
+[Twitch](https://www.twitch.tv/ninjafb_)  
+[Discord Server](https://discord.com/invite/Dmsrpk8vsk)  
